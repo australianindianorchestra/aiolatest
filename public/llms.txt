@@ -1,0 +1,38 @@
+# Australian Indian Orchestra
+
+> The Australian Indian Orchestra (AIO) is a Sydney-based orchestra performing Indian classical, Bollywood film and fusion music with symphonic arrangements.
+
+The website provides information about AIO, its concerts and services, performance videos, a photo gallery, and a blog. Concert listings and blog posts may be supplied by the connected WordPress service and can change over time.
+
+## About
+- [About AIO](https://aio.org.au/about): Orchestra story, founders and mission
+- [Join AIO](https://aio.org.au/join): Auditions, volunteer roles and updates
+- [Contact](https://aio.org.au/contact): Enquiries and booking requests
+
+## Concerts
+- [The Music of A.R. Rahman in Symphony](https://aio.org.au/concert/a-r-rahman-in-symphony): Symphonic performances of music by A.R. Rahman
+- [Chorus Mandala](https://aio.org.au/concert/chorus-mandala): Concert archive for the choir and chamber orchestra programme
+- [Symphony of Lights](https://aio.org.au/concert/symphony-of-lights): Past Bollywood and Indian fusion concert
+- [Sydney to Mumbai](https://aio.org.au/concert/sydney-to-mumbai): Past programme connecting Australian and Indian music
+- [Indian String Sensations](https://aio.org.au/concert/strings-sensations): AIO debut concert programme
+- [A Musical Welcome to the Prime Minister](https://aio.org.au/concert/welcome-pm-narendra-modi): Performance archive
+- [Upcoming concerts and tour updates](https://aio.org.au/tour): Current event listings and tour registration
+
+## Services
+- [Services overview](https://aio.org.au/services)
+- [Film scoring](https://aio.org.au/services/film-scoring)
+- [Live recording](https://aio.org.au/services/live-recording)
+- [Live show production](https://aio.org.au/services/live-show-production)
+- [Private concerts](https://aio.org.au/services/private-concerts)
+- [Private lessons](https://aio.org.au/services/private-lessons)
+
+## Media and news
+- [Videos](https://aio.org.au/videos): Selected performance recordings
+- [Gallery](https://aio.org.au/gallery): Concert and orchestra photographs
+- [Blog](https://aio.org.au/blog): Articles and updates; individual posts are published dynamically
+
+## Site information
+- [Privacy policy](https://aio.org.au/privacy-policy)
+- [Terms and conditions](https://aio.org.au/terms-and-conditions)
+- [XML sitemap](https://aio.org.au/sitemap.xml)
+- [Full content guide](https://aio.org.au/llms-full.txt)

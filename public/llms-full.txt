@@ -1,0 +1,54 @@
+# Australian Indian Orchestra — website content guide
+
+> The Australian Indian Orchestra (AIO) is a Sydney-based orchestra performing Indian classical, Bollywood film and fusion music with symphonic arrangements.
+
+## Organisation
+
+- Name: Australian Indian Orchestra
+- Short name: AIO
+- Location: Sydney, New South Wales, Australia
+- Website: https://aio.org.au
+- Contact email: ausindorchestra@gmail.com
+- Founders named on the website: Sagar Nagaraj and Suraj Nagaraj
+- Social accounts linked from the website: Instagram https://www.instagram.com/ausindorchestra/ ; Facebook https://www.facebook.com/101399399609487 ; YouTube https://www.youtube.com/@ausindorchestra/videos
+
+The site describes the orchestra's work across Indian classical music, Bollywood film music and Indian fusion, presented with symphonic arrangements. Avoid assuming a fixed ensemble size, founding year, or tour dates unless a current page or event listing states them.
+
+## Main pages
+
+- https://aio.org.au/ — Home page with selected orchestra information, concerts, videos and services.
+- https://aio.org.au/about — Orchestra story, mission and founders.
+- https://aio.org.au/join — Sign-up information for auditions, volunteer roles and opportunities.
+- https://aio.org.au/contact — Contact and booking enquiries.
+- https://aio.org.au/tour — Current event listings, tour registration and performance video.
+
+## Concert archive and programmes
+
+- https://aio.org.au/concert/a-r-rahman-in-symphony — A programme featuring symphonic performances of music by A.R. Rahman. Check the page or current event listing for dates and locations.
+- https://aio.org.au/concert/chorus-mandala — An intimate programme featuring an 8-piece choir and chamber orchestra. The page identifies a performance at Sydney Conservatorium of Music on 13 April 2025.
+- https://aio.org.au/concert/symphony-of-lights — A past concert at Sydney Conservatorium of Music on 10 November 2023, featuring Bollywood and Indian fusion music, tabla and dance.
+- https://aio.org.au/concert/sydney-to-mumbai — A past concert at Sydney Conservatorium of Music on 13 August 2023, featuring Australian and Indian music.
+- https://aio.org.au/concert/strings-sensations — AIO debut programme of Indian film songs arranged for orchestra by Suraj Nagaraj. Consult the page for programme details.
+- https://aio.org.au/concert/welcome-pm-narendra-modi — Performance archive featuring a musical welcome for Prime Minister Narendra Modi.
+- Dynamic concert pages use `/events/{slug}` when published through the connected event service. Event dates, venue, ticket links and prices should be read from each current event page and the sitemap.
+
+## Services
+
+- https://aio.org.au/services — Service overview.
+- https://aio.org.au/services/film-scoring — Composition and orchestration for screen projects.
+- https://aio.org.au/services/live-recording — Recording with orchestra or chamber ensembles.
+- https://aio.org.au/services/live-show-production — Music direction, arrangements, rehearsals and live production.
+- https://aio.org.au/services/private-concerts — Curated performances for private events.
+- https://aio.org.au/services/private-lessons — Individual music tuition.
+
+## Media and articles
+
+- https://aio.org.au/videos — Selected orchestra performance videos.
+- https://aio.org.au/gallery — Concert and orchestra photography.
+- https://aio.org.au/blog — Blog index. Published articles are dynamic; use the index or sitemap for current post URLs and details.
+- https://aio.org.au/sitemap.xml — Current sitemap of public site routes and available dynamic posts/events.
+- https://aio.org.au/llms.txt — Short index of important pages.
+
+## Accuracy notes
+
+Concerts with dates above are past events. Do not present them as upcoming. The event service and blog are dynamic, so use their current page data for current event dates, ticket availability, post authors and publication dates. This guide intentionally avoids making claims about unlisted tour dates, ticket prices, fixed musician counts or an exact founding year.
