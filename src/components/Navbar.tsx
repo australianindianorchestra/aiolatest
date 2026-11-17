@@ -329,7 +329,9 @@ export default function Navbar() {
         {/* Right Action Icons & Controls */}
         <div className="flex gap-3 sm:gap-4 items-center">
           <a
-            href="https://www.rosemontstrings.com/enquire"
+            href="https://www.eventbrite.com.au/e/the-unforgettables-jagjit-singh-ghazals-reimagined-tickets-2004854691351?aff=ebdsoporgprofile"
+            target="_blank"
+            rel="noopener noreferrer"
             className="hidden sm:block px-4 py-1.5 text-xs font-semibold tracking-widest uppercase transition-all duration-300 border border-[var(--red)] text-white rounded-[2px] hover:bg-[var(--red)] 2xl:text-xl"
           >
             Book tickets
@@ -493,11 +495,13 @@ export default function Navbar() {
 })}
 
           <a
-            href="https://www.rosemontstrings.com/enquire"
+            href="https://www.eventbrite.com.au/e/the-unforgettables-jagjit-singh-ghazals-reimagined-tickets-2004854691351?aff=ebdsoporgprofile"
+            target="_blank"
+            rel="noopener noreferrer"
             onClick={() => setMenuOpen(false)}
             className="mt-3 inline-flex w-full items-center justify-center rounded-sm border border-[var(--red)] bg-[var(--red)] px-4 py-3 text-xs font-semibold tracking-widest uppercase text-white transition hover:bg-transparent"
           >
-            Book Us
+            Book Tickets
           </a>
 
           {/* Mobile Auth Actions cleanly integrated at bottom */}
